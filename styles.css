@@ -147,8 +147,7 @@ nav form {
 
 nav form input[type=text], button {
     border:#c78b07 solid 1px; 
-    font: Arial;
-       
+    
 }
 
 
@@ -180,11 +179,6 @@ nav form input[type=text], button {
     bottom:10%;
     left: 0;
 }
-
-.intro .text p{
-    font-style:
-}
-
 
 /********BUTTONS*********/
 
@@ -234,13 +228,6 @@ main button {
 }
 
 
-
-.flex-container-2 p {
-
-    
-    
-    
-}
 
 /**************OUR SERVICES***************/
 
@@ -368,8 +355,7 @@ main button {
 
 .contact {
     background-color: #ffe6ac;
-    margin-bottom: 10px;      
-    margin: left-auto;
+    margin-bottom: 10px;     
 }
 
 input[type=text] {
@@ -488,7 +474,6 @@ td, th {
         
         nav form input[type=text], button {
             border:#c78b07 solid 1px; 
-            font: Arial;
                
         }
 
